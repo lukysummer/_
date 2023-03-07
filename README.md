@@ -6,7 +6,8 @@
 
 * [생성된 4마디의 미디](https://github.com/lukysummer/Poza-Assignment/blob/main/step_36656_sample_2.mid) (생성할 때 사용한 [모델 checkpoint](https://drive.google.com/file/d/1TBjBuKBgpLK2-UX5_XGdP39wxWGHb6s4/view?usp=sharing))
 * [과제 설명 PPT](https://github.com/lukysummer/Poza-Assignment/blob/main/PozaAssignment.pptx)
-* [과제 코드가 담긴 Colab Notebook](https://github.com/lukysummer/Poza-Assignment/blob/main/PozaWorkbook.ipynb)
+* 과제 코드가 담긴 [Colab Notebook](https://github.com/lukysummer/Poza-Assignment/blob/main/PozaWorkbook_clean.ipynb) **(cell output 없이 코드만)**
+* 과제 코드와 training log 가 담긴 [Colab Notebook](https://github.com/lukysummer/Poza-Assignment/blob/main/PozaWorkbook.ipynb) **(cell output 포함; model training log- step number, loss 등이 기록되어 있음)**
 * [magenta](https://github.com/magenta/magenta) Repository 를 fork 한 후 만든 [modification](https://github.com/lukysummer/magenta/blob/main/magenta/models/music_vae/configs.py#L49)
 
 재미있었습니다. 감사합니다!😄
