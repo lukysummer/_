@@ -1,6 +1,6 @@
 # 🥁 포자랩스 인공지능 NLP 개발자 과제 - 신자현
 
-안녕하세요, 이 Repository는 [magenta](https://github.com/magenta/magenta) Repository 를 fork 해서 필요한 modification 과 
+안녕하세요, 
 
 과제에서 요구하신 주요 요소를 다음 리스트에 요약했습니다:
 
